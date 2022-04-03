@@ -85,4 +85,13 @@ textarea {
 .hour {
   background-color: gray;
   font-size: 1.2rem;
+  text-align: left;
+
+  font-weight: bold;
+
+
+
+}
+.hour-block {
+  display: flex ;
 }
