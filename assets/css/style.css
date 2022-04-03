@@ -88,10 +88,13 @@ textarea {
   text-align: left;
 
   font-weight: bold;
-
-
-
 }
 .hour-block {
-  display: flex ;
+  display: flex;
+}
+
+#currentDay {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 1.2em;
 }

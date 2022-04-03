@@ -25,12 +25,12 @@
   </head>
 
   <body class="bg-dark">
+    <header class="jumbotron text-light bg-dark col-12">
+      <h1 class="display-3">Work Day Scheduler</h1>
+      <p class="lead">A simple calendar app for scheduling your work day</p>
+      <p id="currentDay" class="lead"></p>
+    </header>
     <div class="row">
-      <header class="jumbotron text-light bg-dark col-12">
-        <h1 class="display-3">Work Day Scheduler</h1>
-        <p class="lead">A simple calendar app for scheduling your work day</p>
-        <p id="currentDay" class="lead"></p>
-      </header>
       <div class="container">
         <!-- Timeblocks go here -->
         <div class="row hour-block">
@@ -155,6 +155,13 @@
     <!-- ↓↓↓ Pre-set in base files ↓↓↓ -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.2/moment-with-locales.min.js"
+      integrity="sha512-obTnSkZuHrqmdoKZQokLadsYkQ4HX0HQ1tc0xEr/37kjnKhgZpSS9PYWp93SgPBPDdNBzwkRPElAc6nPXN+g7g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+
     <!-- ↑↑↑ Pre-set end ↑↑↑ -->
     <script
       src="https://kit.fontawesome.com/dc4b7efdae.js"
