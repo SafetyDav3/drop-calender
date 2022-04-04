@@ -6,7 +6,6 @@ body {
 
 .dat-border {
   border: 3px solid gray;
-  border-left: 5px groove black;
 }
 
 textarea {
@@ -98,3 +97,12 @@ textarea {
   font-size: 2rem;
   margin-top: 1.2em;
 }
+
+
+
+header {
+
+
+
+
+
