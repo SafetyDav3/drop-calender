@@ -90,13 +90,18 @@ textarea {
 }
 .hour-block {
   display: flex;
+  border-radius: 0 15px 15px 15px;
+  height: 100px;
+  box-shadow: 0 5px 8px 3px black;
 }
 
 #currentDay {
   font-weight: bold;
   font-size: 2rem;
   margin-top: 1.2em;
+
 }
 
-
-
+.user-text-entry {
+  font-weight: bold;
+}
