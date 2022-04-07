@@ -1,15 +1,20 @@
 # Drop Calender
 
-## Requirements 
+## Requirements
 
-* User story and Requirements 
+- User story and Requirements
 
-    ![user story / requirements](./assets/images/READMEimages/requirements.png)
+  ![user story / requirements](./assets/images/READMEimages/requirements.png)
 
-* Mock-up 
+- Mock-up
 
-    ![Mock-up](./assets/images/READMEimages/mock-up.png)
+  ![Mock-up](./assets/images/READMEimages/mock-up.png)
 
+## Deployed Page
+
+- Deployed page screenshot
+
+![Deployed page screenshot](./assets/images/READMEimages/page-screenshot.png)
 
 ## Goals
 
@@ -19,8 +24,7 @@
 - The calender will display the current day above the timeblocks
 - The timeblocks will be color-coded to indicate past, present, and future events
 
-
-## Resources used 
+## Resources used
 
 - jQuery API - https://jquery.com/
 
@@ -29,5 +33,3 @@
 - Font Awesome - https://fontawesome.com/
 
 - Moment.js - https://momentjs.com/
-
-
