@@ -18,11 +18,16 @@
 
 ## Goals
 
-- Display timeblocks for standard business hours
-- Timeblocks will have a input field and a save button
-- The save button will store the timeblock information in local storage
-- The calender will display the current day above the timeblocks
-- The timeblocks will be color-coded to indicate past, present, and future events
+- [X] Display timeblocks for standard business hours 
+
+- [X] Timeblocks will have a input field and a save button
+
+- [X] The save button will store the timeblock information in local storage
+
+- [X] The calender will display the current day above the timeblocks
+
+- [X] The timeblocks will be color-coded to indicate past, present, and future events
+
 
 ## Resources used
 
